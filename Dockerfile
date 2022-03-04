@@ -1,6 +1,6 @@
 # FROM lacework/datacollector:5.2.0-sidecar AS agent-build-image
 
-FROM alpine:3.14.2
+FROM alpine:latest
 
 LABEL org.opencontainers.image.source = &quot;https://github.com/kili87/demo-app&quot;
 
