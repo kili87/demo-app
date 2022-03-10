@@ -1,6 +1,6 @@
 # Kili Demo-App
 
-Simple web demo application with vulnerabilities (couple of low, medium and high) OS and python vulnerabilites).
+Simple web demo application with vulnerabilities due to outdated Alpine OS in Dockerfile.
 
 The original image is based on a public hosted image and can be pulled like this:
 
